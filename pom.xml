@@ -4,7 +4,7 @@
 
     <groupId>com.dawid</groupId>
     <artifactId>pet-clinic</artifactId>
-    <version>0.0.2</version>
+    <version>0.0.3-SNAPSHOT</version>
     <modules>
         <module>pet-clinic-data</module>
         <module>pet-clinic-web</module>
@@ -56,7 +56,7 @@
         <developerConnection>scm:git:https://github.com/delvekk/pet-clinic</developerConnection>
     <connection>scm:git:http://github.com/delvekk/pet-clinic</connection>
     <url>https://github.com/delvekk/pet-clinic.git</url>
-    <tag>pet-clinic-0.0.2</tag>
+    <tag>HEAD</tag>
   </scm>
 
 </project>
